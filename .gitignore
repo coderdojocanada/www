@@ -1,0 +1,12 @@
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+.DS_Store
+.bowerrc
+.jsintrc
+.yo-rc.json
+.editorconfig
+.jshintrc
+npm-debug.log
